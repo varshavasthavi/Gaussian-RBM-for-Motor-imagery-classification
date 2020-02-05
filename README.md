@@ -1,0 +1,1 @@
+# Gaussian-RBM-for-Motornimagery-classification
