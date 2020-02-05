@@ -1,1 +1,1 @@
-# Gaussian-RBM-for-Motornimagery-classification
+# Gaussian-RBM-for-Motor imagery-classification
